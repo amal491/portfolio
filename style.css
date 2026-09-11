@@ -65,10 +65,10 @@ main {padding: 50px 0;}
 .hero-title { font-size: 45px;
   color: black;
   margin: 10px 0;}
-.hero-title .highlight {color: dodgerblue;}
+.hero-title.highlight {color: dodgerblue;}
 .hero-description {max-width: 550px;
   margin-bottom: 20px;}
-.hero-cta {display: flex;  gap: 15px;  flex-wrap: wrap;}
+.hero-cta {display: flex; gap: 15px;  flex-wrap: wrap;}
 .hero-image-wrapper { flex: 1;  display: flex;  justify-content: center;}
 .hero-avatar {width: 270px; height: 270px; border-radius: 50%;
   border: 4px black;  overflow: hidden;}
@@ -164,7 +164,7 @@ object-fit: cover;}
 }
 
 .skill-card h3 {
-  color:black ;
+  color: black;
   margin-bottom: 10px;
 }
 
