@@ -30,7 +30,7 @@ margin: auto;
   justify-content: space-between;
   align-items: center;}
 .logo {font-size: 24px;}
-.logo span {color: m;}
+.logo span {color: midnightblue;}
 nav {display: flex;
   gap: 10px;}
 nav a {color: black;
@@ -157,22 +157,22 @@ object-fit: cover;}
   gap: 20px;
 }
 
-.skill-card {
+.skills-card {
   border: 1px dodgerblue;
   padding: 25px;
   border-radius: 10px;
 }
 
-.skill-card h3 {
+.skills-card h3 {
   color:black ;
   margin-bottom: 10px;
 }
 
-.skill-card p {
+.skills-card p {
   margin-bottom: 15px;
 }
 
-.skill-card li {
+.skills-card li {
   margin-bottom: 5px;
 }
 
@@ -181,36 +181,36 @@ object-fit: cover;}
   margin-bottom: 20px;
 }
 
-.project-grid {
+.projects-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 
-.project-card {
+.projects-card {
   border: 1px solid lightgray;
   border-radius: 10px;
   overflow: hidden;
   background-color: white;
 }
 
-.project-card img {
+.projects-card img {
   width: 100%;
   height: 200px;
   object-fit: cover;
 }
 
-.project-card h3,
-.project-card p {
+.projects-card h3,
+.projects-card p {
   padding: 0 20px;
 }
 
-.project-card h3 {
+.projects-card h3 {
   color: midnightblue;
   margin-top: 15px;
 }
 
-.project-card p {
+.projects-card p {
   margin: 10px 0 20px;
 }
 
