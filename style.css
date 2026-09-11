@@ -157,22 +157,22 @@ object-fit: cover;}
   gap: 20px;
 }
 
-.skill-card {
+.skills-card {
   border: 1px dodgerblue;
   padding: 25px;
   border-radius: 10px;
 }
 
-.skill-card h3 {
+.skills-card h3 {
   color: black;
   margin-bottom: 10px;
 }
 
-.skill-card p {
+.skills-card p {
   margin-bottom: 15px;
 }
 
-.skill-card li {
+.skills-card li {
   margin-bottom: 5px;
 }
 
